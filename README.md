@@ -2,7 +2,7 @@
 
 ### First Task ###
 -------------------------
-<a href="Practic_Api_1/Practic_Api_1/Controllers/WeatherForecastController.cs">First Work With API</a>
+
 Метод с добавлением новой записи и проверкой
 <br> </br>
 ![Снимок экрана (1)](https://user-images.githubusercontent.com/125022562/218084703-6dc03a91-41b9-4988-86ee-48cc781ed1db.png)
