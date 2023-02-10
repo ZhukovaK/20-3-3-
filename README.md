@@ -18,3 +18,7 @@ Mетод удаления определенной записи по индек
 Метод поиска элемента по индексу
 <br> </br>
 ![Снимок3](https://user-images.githubusercontent.com/125022562/218089444-cf817589-d636-4fe3-8f32-923e7a10db43.PNG)
+<br> </br>
+Результат
+<br> </br>
+![Снимок4](https://user-images.githubusercontent.com/125022562/218090387-5c2ce945-0f32-4b1d-b118-66973198a9b1.PNG)
