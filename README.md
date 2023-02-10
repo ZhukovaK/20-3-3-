@@ -10,3 +10,6 @@ Mетод удаления определенной записи по индек
 <br> </br>
 ![Снимок2](https://user-images.githubusercontent.com/125022562/218088811-f3820c52-a522-4d8e-a306-df5ed1d0ca9a.PNG)
 <br> </br>
+Метод поиска элемента по индексу
+<br> </br>
+![Снимок3](https://user-images.githubusercontent.com/125022562/218089444-cf817589-d636-4fe3-8f32-923e7a10db43.PNG)
