@@ -22,3 +22,10 @@ Mетод удаления определенной записи по индек
 Результат
 <br> </br>
 ![Снимок4](https://user-images.githubusercontent.com/125022562/218090387-5c2ce945-0f32-4b1d-b118-66973198a9b1.PNG)
+
+
+# Practic Day 2
+-------------------------
+Проектирование базы данных
+<br> </br>
+![Снимок](https://user-images.githubusercontent.com/125022562/222713591-9025e2f2-be61-49be-9239-56d97da4916d.PNG)
