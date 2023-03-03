@@ -23,6 +23,11 @@ Mетод удаления определенной записи по индек
 <br> </br>
 ![Снимок4](https://user-images.githubusercontent.com/125022562/218090387-5c2ce945-0f32-4b1d-b118-66973198a9b1.PNG)
 
+# Practic Day 2
+-------------------------
+![photo_5192783905642628494_y](https://user-images.githubusercontent.com/125022562/222718720-4563c3d0-3c8e-456b-8193-99a73bcea3f3.jpg)
+![photo_5192783905642628493_w](https://user-images.githubusercontent.com/125022562/222718723-ced8a208-e56e-4346-9295-477fb6fdaf53.jpg)
+
 
 # Practic Day 3
 -------------------------
