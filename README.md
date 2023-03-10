@@ -35,3 +35,4 @@ Mетод удаления определенной записи по индек
 <br> </br>
 ![Снимок](https://user-images.githubusercontent.com/125022562/222713591-9025e2f2-be61-49be-9239-56d97da4916d.PNG)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+don’t+like+databases)](https://collegetsaritsyno.mskobr.ru/?ysclid=lf2cxo71pr850612693)
+![image](https://user-images.githubusercontent.com/125022562/224312192-ca3f6b56-e021-4759-b31e-a68eb515a86b.png)
