@@ -38,3 +38,18 @@ Mетод удаления определенной записи по индек
 # Practic Day 4
 -------------------------
 ![image](https://user-images.githubusercontent.com/125022562/224312192-ca3f6b56-e021-4759-b31e-a68eb515a86b.png)
+
+# Practic Day 5
+-------------------------
+Миграция нашей БДшки в проект
+![image](https://user-images.githubusercontent.com/125022562/229118224-10e1ef35-b8fc-4ab9-a494-e95966ee7ded.png)
+
+![image](https://user-images.githubusercontent.com/125022562/229118434-31655237-6f5d-4c56-8c07-2f30873fae6f.png)
+Делаем множество манипуляций и формирование нашего приложения
+![image](https://user-images.githubusercontent.com/125022562/229118692-609d1ca1-6b03-4d9e-bb82-3b256e67f33a.png)
+
+После множества проделанных мной манипуляций получилось это
+![image](https://user-images.githubusercontent.com/125022562/229118484-cbe1bdb7-8ea5-4a7b-a513-74cdc6f79dca.png)
+![image](https://user-images.githubusercontent.com/125022562/229118636-4a49a900-9cd7-4c64-9a59-d171d20ef9a2.png)
+
+
