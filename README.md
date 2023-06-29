@@ -69,4 +69,7 @@ Mетод удаления определенной записи по индек
 ![image](https://user-images.githubusercontent.com/125022562/230590940-193fa261-916f-4ebc-92cb-7aad33adf83f.png)
 <br> </br>
 ![image](https://github.com/ZhukovaK/Zhukova/assets/125022562/9b21a48d-3a3f-4fe3-b570-06714b47e6c0)
+<br> </br>
+![image](https://github.com/ZhukovaK/Zhukova/assets/125022562/c391b333-e6e3-4b1d-a40e-a37673d9d062)
+
 
