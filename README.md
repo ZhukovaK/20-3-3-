@@ -57,12 +57,15 @@ Mетод удаления определенной записи по индек
 <br> </br>
 ![image](https://user-images.githubusercontent.com/125022562/229118484-cbe1bdb7-8ea5-4a7b-a513-74cdc6f79dca.png)
 
-# Practic 6
--------------------------
 <br> </br>
 ![image](https://user-images.githubusercontent.com/125022562/229118636-4a49a900-9cd7-4c64-9a59-d171d20ef9a2.png)
 <br> </br>
+
+
+# Practic 6
+-------------------------
 Формирование архитектуры приложения
+
 ![image](https://user-images.githubusercontent.com/125022562/230590940-193fa261-916f-4ebc-92cb-7aad33adf83f.png)
 <br> </br>
 ![image](https://github.com/ZhukovaK/Zhukova/assets/125022562/9b21a48d-3a3f-4fe3-b570-06714b47e6c0)
