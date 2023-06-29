@@ -1,11 +1,4 @@
-[day 2](https://github.com/ZhukovaK/Zhukova#practic-day-2)
-<br> </br>
-[day 3](https://github.com/ZhukovaK/Zhukova#practic-day-3)
-<br> </br>
-[day 4](https://github.com/ZhukovaK/Zhukova#practic-day-4)
-<br> </br>
-[day 5](https://github.com/ZhukovaK/Zhukova#practic-day-5)
-<br> </br>
+
 
 # Practic 1
 
