@@ -88,6 +88,21 @@ Mетод удаления определенной записи по индек
  <img src="https://media.tenor.com/2u5FtwpjyWwAAAAC/sigma-male-sigma.gif">
 
 
+ [5469774613917475636.webm](https://github.com/ZhukovaK/Zhukova/assets/125022562/7acb9270-5207-4216-a8ed-1477a9e11752)
+
+
+
+
+https://github.com/ZhukovaK/Zhukova/assets/125022562/2a6aa835-7b8c-4ccd-85e9-fdc612f3400e
+
+
+
+
+
+
+
+
+
 </div>
 
 
