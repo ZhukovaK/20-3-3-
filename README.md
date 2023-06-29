@@ -1,3 +1,5 @@
+ <img src="https://media.tenor.com/gLC3alr6powAAAAM/lastminute-assignment.gif"></h1>
+
 
 
 # Practic 1
@@ -81,7 +83,7 @@ Mетод удаления определенной записи по индек
  
  <h4>Летом доделаю, а то забуду что такое компьютер</h4>
 
- <img src="https://media.tenor.com/2u5FtwpjyWwAAAAC/sigma-male-sigma.gif"></h1>
+ <img src="https://media.tenor.com/2u5FtwpjyWwAAAAC/sigma-male-sigma.gif">
 
 
 </div align="center">
