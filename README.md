@@ -1,4 +1,4 @@
-</div>
+</div align="center">
  
  <img src="https://media.tenor.com/gLC3alr6powAAAAM/lastminute-assignment.gif"></h1>
 
@@ -88,7 +88,7 @@ Mетод удаления определенной записи по индек
  <img src="https://media.tenor.com/2u5FtwpjyWwAAAAC/sigma-male-sigma.gif">
 
 
-</div align="center">
+</div>
 
 
 
