@@ -84,7 +84,7 @@ Mетод удаления определенной записи по индек
  <img src="https://media.tenor.com/2u5FtwpjyWwAAAAC/sigma-male-sigma.gif"></h1>
 
 
-</div>
+</div align="center">
 
 
 
