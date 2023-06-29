@@ -7,7 +7,7 @@
 [day 5](https://github.com/ZhukovaK/Zhukova#practic-day-5)
 <br> </br>
 
-# Practic Day 1
+# Practic 1
 
 -------------------------
 
@@ -31,24 +31,24 @@ Mетод удаления определенной записи по индек
 <br> </br>
 ![Снимок4](https://user-images.githubusercontent.com/125022562/218090387-5c2ce945-0f32-4b1d-b118-66973198a9b1.PNG)
 
-# Practic Day 2
+# Practic 2
 -------------------------
 ![photo_5192783905642628494_y](https://user-images.githubusercontent.com/125022562/222718720-4563c3d0-3c8e-456b-8193-99a73bcea3f3.jpg)
 ![photo_5192783905642628493_w](https://user-images.githubusercontent.com/125022562/222718723-ced8a208-e56e-4346-9295-477fb6fdaf53.jpg)
 
 
-# Practic Day 3
+# Practic 3
 -------------------------
 Проектирование базы данных
 <br> </br>
 ![Снимок](https://user-images.githubusercontent.com/125022562/222713591-9025e2f2-be61-49be-9239-56d97da4916d.PNG)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=cd00cd&lines=I+don’t+like+databases)](https://collegetsaritsyno.mskobr.ru/?ysclid=lf2cxo71pr850612693)
 
-# Practic Day 4
+# Practic 4
 -------------------------
 ![image](https://user-images.githubusercontent.com/125022562/224312192-ca3f6b56-e021-4759-b31e-a68eb515a86b.png)
 
-# Practic Day 5
+# Practic 5
 -------------------------
 Миграция нашей БДшки в проект
 <br> </br>
@@ -63,11 +63,14 @@ Mетод удаления определенной записи по индек
 После множества проделанных мной манипуляций получилось это
 <br> </br>
 ![image](https://user-images.githubusercontent.com/125022562/229118484-cbe1bdb7-8ea5-4a7b-a513-74cdc6f79dca.png)
+
+# Practic 6
+-------------------------
 <br> </br>
 ![image](https://user-images.githubusercontent.com/125022562/229118636-4a49a900-9cd7-4c64-9a59-d171d20ef9a2.png)
 <br> </br>
+Формирование архитектуры приложения
 ![image](https://user-images.githubusercontent.com/125022562/230590940-193fa261-916f-4ebc-92cb-7aad33adf83f.png)
-
-
+<br> </br>
 ![image](https://github.com/ZhukovaK/Zhukova/assets/125022562/9b21a48d-3a3f-4fe3-b570-06714b47e6c0)
 
