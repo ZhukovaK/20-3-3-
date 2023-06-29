@@ -78,8 +78,13 @@ Mетод удаления определенной записи по индек
 <br> </br>
 ![image](https://github.com/ZhukovaK/Zhukova/assets/125022562/b07888b6-8b1e-4bdd-8707-bca74671480c)
 <br> </br>
+ 
+ <h4>Летом доделаю, а то забуду что такое компьютер</h4>
+
  <img src="https://media.tenor.com/2u5FtwpjyWwAAAAC/sigma-male-sigma.gif"></h1>
- <div align="center">
+
+
+</div>
 
 
 
